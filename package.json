@@ -1,12 +1,11 @@
 {
   "name": "karma-coverage-sandbox",
-  "description": "GrubHub menu components",
+  "description": "karma coverage",
   "version": "4.15.1",
   "license": "UNLICENSED",
   "private": true,
   "repository": {
-    "type": "git",
-    "url": "ssh://git@stash.grubhub.com:7999/rest/gh-menu-components.git"
+    "type": "git"
   },
   "scripts": {
     "postinstall": "jspm install && jspm update && jspm install --dev",
